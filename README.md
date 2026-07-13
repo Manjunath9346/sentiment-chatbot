@@ -19,3 +19,19 @@ A sentiment-aware chatbot built using Streamlit and Hugging Face Transformers.
 
 pip install -r requirements.txt
 streamlit run app.py
+
+
+
+## Screenshots
+
+### Login Page
+
+![Login Page](screenshots/login.png)
+
+### Chat Interface
+
+![Chat Interface](screenshots/chat.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)

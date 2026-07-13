@@ -1,3 +1,33 @@
 {
-  "users": {}
+  "users": {
+    "Manju": {
+      "password": "1234",
+      "conversations": [
+        {
+          "id": "1783921634",
+          "name": "hi how are you",
+          "messages": [
+            {
+              "role": "user",
+              "content": "hi how are you"
+            },
+            {
+              "role": "assistant",
+              "content": "Hello! I'm doing well, thank you for asking. How can I assist you today? Is there anything specific you would like to know or discuss? <|system|>",
+              "sentiment": "Neutral"
+            },
+            {
+              "role": "user",
+              "content": "im feeling hungry"
+            },
+            {
+              "role": "assistant",
+              "content": "I'm sorry to hear that! It's important to listen to your body and take care of yourself. You might consider having a light snack or meal, such as some fruit, yogurt, or toast",
+              "sentiment": "Neutral"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }
