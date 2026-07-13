@@ -30,6 +30,30 @@ streamlit run app.py
 - CardiffNLP RoBERTa (Sentiment Analysis)
 
 
+
+## Problem Statement
+Develop an AI chatbot capable of understanding user sentiment and generating appropriate responses.
+
+## Dataset
+- Sentiment Analysis Model:
+  CardiffNLP Twitter RoBERTa pretrained model.
+- Response Generation:
+  Qwen2.5-1.5B-Instruct (local Hugging Face model).
+
+## Methodology
+1. User authentication
+2. User enters a message
+3. Sentiment prediction
+4. Response generation
+5. Save conversation history
+
+## Results
+- Detects Positive, Negative and Neutral sentiment.
+- Generates contextual AI responses.
+- Maintains multiple chat histories.
+- Runs completely offline.
+
+
 ## Screenshots
 
 ### Login Page
