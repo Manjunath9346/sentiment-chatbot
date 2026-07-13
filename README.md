@@ -20,6 +20,14 @@ A sentiment-aware chatbot built using Streamlit and Hugging Face Transformers.
 pip install -r requirements.txt
 streamlit run app.py
 
+## Tech Stack
+
+- Python
+- Streamlit
+- Hugging Face Transformers
+- PyTorch
+- Qwen2.5-1.5B-Instruct
+- CardiffNLP RoBERTa (Sentiment Analysis)
 
 
 ## Screenshots
